@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+data/
+datasets/
+images/
+
+*.h5
+*.pt
+*.pkl
+*.ckpt
+
+.ipynb_ckeckpoints/
+
+__pycache__/
+*.log
