@@ -27,3 +27,6 @@ This project detects malaria infection in human blood smears using deep learning
 - **Training accuracy** - 95%
 - **Validation accuracy** - 95%
 
+### Deployment
+The app is deployed as a web appp. Check it out:
+- **Live app**: https://malaria-detection-app-3dlbg5tahrlfxjtgc9kdyn.streamlit.app/
